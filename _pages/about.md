@@ -13,11 +13,11 @@ profile:
     <p>Iowa State University</p>
     <p>Heady Hall, Ames, IA 50011</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
