@@ -37,3 +37,26 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* Hide the faded entry-type labels on the right side of the publications page */
+.publications .bibliography .row .col-sm-2.preview,
+.publications h1.bibliography-section,
+.publications h2.bibliography-section,
+.publications .row .col-sm-2 {
+  display: none !important;
+}
+
+/* But keep our custom .category section headers visible */
+.publications h2.category {
+  display: block !important;
+  margin-top: 3rem !important;
+  margin-bottom: 1.5rem !important;
+  padding-bottom: 0.5rem !important;
+  border-bottom: 1px solid var(--global-divider-color, #e0e0e0) !important;
+  font-weight: 500 !important;
+  font-size: 1.75rem !important;
+}
+
+.publications h2.category:first-of-type {
+  margin-top: 1rem !important;
+}
