@@ -44,7 +44,7 @@ external_services:
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
-socials_in_search: true
+socials_in_search: false
 posts_in_search: false
 bib_search: true
 
@@ -348,7 +348,7 @@ enable_masonry: true
 enable_math: true
 enable_tooltips: false
 enable_darkmode: true
-enable_navbar_social: true
+enable_navbar_social: false
 enable_project_categories: true
 enable_medium_zoom: true
 enable_progressbar: true
