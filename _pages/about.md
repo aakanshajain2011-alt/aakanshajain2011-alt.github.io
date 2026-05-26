@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate in Economics, <a href='https://www.econ.iastate.edu/'>Iowa State University</a>. On the 2026–27 Economics Job Market.
 
