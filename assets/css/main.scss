@@ -60,3 +60,21 @@
 .publications h2.category:first-of-type {
   margin-top: 1rem !important;
 }
+
+/* Make social icons smaller on the about page */
+.profile .social .contact-icons a,
+.profile .social .contact-icons i,
+.profile .social .contact-icons span,
+.contact-icons a,
+.contact-icons i,
+.contact-icons span {
+  font-size: 1.5rem !important;
+  margin: 0 0.5rem !important;
+}
+
+.contact-icons img,
+.profile .social .contact-icons img {
+  width: 1.5rem !important;
+  height: 1.5rem !important;
+}
+
