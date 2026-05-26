@@ -1,9 +1,8 @@
 ---
-layout: cv
+layout: redirect
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: cv.pdf
-description: My full curriculum vitae is available for download below.
+nav_order: 3
+redirect: /assets/pdf/cv.pdf
 ---
