@@ -4,6 +4,8 @@ title: CV
 nav: true
 nav_order: 3
 sitemap: false
+nav_href: /assets/pdf/Jain_CV.pdf
+nav_target: _blank
 ---
 <!DOCTYPE html>
 <html lang="en">
