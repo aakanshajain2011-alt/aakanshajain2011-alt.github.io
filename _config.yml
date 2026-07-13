@@ -255,7 +255,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: type
+  group_by: none
   group_order: ascending
 
 enable_publication_badges:
