@@ -2,7 +2,7 @@
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 3
+nav_order: 4
 sitemap: false
 nav_href: /assets/pdf/Jain_CV.pdf
 nav_target: _blank
