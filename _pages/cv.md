@@ -10,11 +10,11 @@ sitemap: false
 <head>
 <meta charset="utf-8">
 <title>Redirecting...</title>
-<meta http-equiv="refresh" content="0; url=/assets/pdf/cv.pdf">
-<link rel="canonical" href="/assets/pdf/cv.pdf">
+<meta http-equiv="refresh" content="0; url=/assets/pdf/Jain_CV.pdf">
+<link rel="canonical" href="/assets/pdf/Jain_CV.pdf">
 </head>
 <body>
-<p>Redirecting to <a href="/assets/pdf/cv.pdf">CV</a>.</p>
-<script>window.location.replace("/assets/pdf/cv.pdf");</script>
+<p>Redirecting to <a href="/assets/pdf/Jain_CV.pdf">CV</a>.</p>
+<script>window.location.replace("/assets/pdf/Jain_CV.pdf");</script>
 </body>
 </html>
