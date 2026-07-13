@@ -27,8 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am a PhD Candidate in Economics at Iowa State University, on the 2026–27 job market. My research uses applied microeconometric methods — particularly instrumental variables and shift-share designs — to study labor markets, immigration, and human capital formation.
-
-My job market paper provides causal evidence on the substitution between H-2A guestworkers and settled farm labor across U.S. commuting zones from 2008 to 2024. My other work examines returns to higher education in India, rural broadband and out-migration, and entrepreneurship among university graduates.
+I am a PhD candidate in Economics at Iowa State University, on the 2026–27 job market. I am an applied labor economist studying how immigration, education, and access to opportunity shape workers and local labor markets in the United States and India.
+My job market paper provides causal evidence on how the H-2A guestworker program has substituted for settled farm labor across U.S. commuting zones from 2008 to 2024. My other research examines returns to higher education in India, rural broadband and college enrollment, and entrepreneurship among university graduates.
 
 I am advised by [John Winters](https://sites.google.com/site/johnvwinters/) and [Peter Orazem](https://www.econ.iastate.edu/people/peter-f-orazem).
