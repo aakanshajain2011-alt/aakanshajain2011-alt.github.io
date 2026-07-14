@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p>Department of Economics</p>
-    <p>Iowa State University</p>
-    <p>Heady Hall, Ames, IA 50011</p>
+  more_info: 
 
 selected_papers: false
 social: true
