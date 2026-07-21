@@ -188,3 +188,11 @@
     color: var(--global-hover-color);
   }
 }
+// Left-align the tabs in the collapsed mobile menu
+@media (max-width: 767.98px) {
+  .navbar-nav {
+    align-items: flex-start !important;
+    margin-left: 0 !important;
+    text-align: left;
+  }
+}
