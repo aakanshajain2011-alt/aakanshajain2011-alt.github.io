@@ -8,8 +8,10 @@ dropdown: true
 children:
   - title: Full CV (with abstracts)
     permalink: /assets/pdf/Jain_CV.pdf
+    target: _blank
   - title: Short CV (no abstracts)
     permalink: /assets/pdf/Jain_CV_short.pdf
+    target: _blank
 ---
 <!DOCTYPE html>
 <html lang="en">
