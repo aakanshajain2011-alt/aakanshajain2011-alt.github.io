@@ -4,8 +4,12 @@ title: CV
 nav: true
 nav_order: 4
 sitemap: false
-nav_href: /assets/pdf/Jain_CV.pdf
-nav_target: _blank
+dropdown: true
+children:
+  - title: Full CV (with abstracts)
+    permalink: /assets/pdf/Jain_CV.pdf
+  - title: Short CV (no abstracts)
+    permalink: /assets/pdf/Jain_CV_short.pdf
 ---
 <!DOCTYPE html>
 <html lang="en">
