@@ -23,14 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "dropdown-full-cv-with-abstracts",
+              title: "Full CV (with abstracts)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/assets/pdf/Jain_CV.pdf";
+              },
+            },{id: "dropdown-short-cv-no-abstracts",
+              title: "Short CV (no abstracts)",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/assets/pdf/Jain_CV_short.pdf";
+              },
+            },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
