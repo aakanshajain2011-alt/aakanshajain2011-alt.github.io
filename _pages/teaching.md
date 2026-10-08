@@ -16,6 +16,7 @@ Instructor of record for 60 students. Designed the course syllabus, prepared all
 ## Teaching Assistant, Iowa State University
 
 **ECON 1020: Principles of Macroeconomics** — Spring 2026
+Attended lectures, helped students with in-class assignments, and held office hours.
 
 **ECON 2070: Quantitative Methods in Economic Analysis I** — Fall 2025
 Conducted weekly math-focused lab sessions for 30 students; opened each session with a guided example and supported students in applying quantitative methods to economic problems.
@@ -46,7 +47,7 @@ Tutored 30 undergraduates one-on-one and graded assignments.
 ## Mentorship
 
 **Help Room Tutor** — Spring 2023 to Fall 2024
-Assisted students across principles and intermediate courses during weekly help-room hours. Ranked top 3 of 25 TAs; recommended for ISU Teaching Excellence Award.
+Assisted students across principles and intermediate courses during weekly help-room hours. Ranked top 3 of 25 TAs.
 
 **Graduate Assistant, Saturday Morning Breakfast Club** — Spring 2023 to Present
 Graduate assistant for a weekly Saturday-morning undergraduate research program in the ISU Department of Economics, founded by Peter Orazem in 2014. Breakfast Club collaborations produced papers on my research page, including a _Growth and Change_ article with an undergraduate first author and an _Agricultural Policy Review_ article with an undergraduate coauthor. Provided data cleaning, Stata programming, and dataset identification support to other Breakfast Club students.
