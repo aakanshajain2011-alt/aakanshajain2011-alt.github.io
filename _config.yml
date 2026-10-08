@@ -16,7 +16,7 @@ lang: en
 future: true # render future-dated news items (upcoming events)
 icon: AJ
 
-url: https://aakanshajain2011-alt.github.io
+url: https://aakanshajain.com
 baseurl:
 last_updated: true
 impressum_path:
@@ -56,7 +56,7 @@ max_width: 1000px
 
 serve_og_meta: true
 serve_schema_org: true
-og_image:
+og_image: https://aakanshajain.com/assets/img/prof_pic.jpg
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
