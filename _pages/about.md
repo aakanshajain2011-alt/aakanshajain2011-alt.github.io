@@ -13,7 +13,7 @@ profile:
     <p>Iowa State University</p>
     <p>aakansha@iastate.edu</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
@@ -29,6 +29,8 @@ latest_posts:
 
 My research studies how immigration, education, and access to opportunity shape workers and local labor markets in the United States and India, using applied microeconometric methods.
 
-My [job market paper](/assets/pdf/jain_h2a_jmp.pdf) asks whether U.S. farms replaced a shrinking year-round immigrant farm workforce with temporary H-2A guestworkers between 2008 and 2024, and finds that farms hire about one guestworker for each settled worker lost. Other projects examine the college wage premium in India, rural broadband and college enrollment, and entrepreneurship among university graduates.
+**Job Market Paper:** "The Rise of H-2A: Causal Evidence on Guestworker Substitution for Settled Farm Labor" — draft available [here](/assets/pdf/jain_h2a_jmp.pdf). The paper asks whether U.S. farms replaced a shrinking year-round immigrant farm workforce with temporary H-2A guestworkers, and finds that farms hire about one guestworker for each settled worker lost.
+
+Other projects examine the college wage premium in India, rural broadband and college enrollment, and entrepreneurship among university graduates.
 
 I am advised by [John Winters](https://sites.google.com/site/johnvwinters/) and [Peter Orazem](https://www.econ.iastate.edu/people/peter-orazem).
