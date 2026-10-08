@@ -44,7 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "news-invited-speaker-at-the-usda-agricultural-marketing-service-webinar-introducing-fame-2-0",
+        },{id: "news-our-article-on-iowa-state-alumni-migration-was-covered-by-axios-des-moines-news",
+          title: 'Our article on Iowa State alumni migration was covered by Axios Des Moines....',
+          description: "",
+          section: "News",},{id: "news-first-place-in-the-usda-ams-and-aaea-data-visualization-challenge-with-a-basha-and-h-lee-presented-my-job-market-paper-at-the-aaea-annual-meeting-kansas-city-github",
+          title: 'First place in the USDA AMS and AAEA Data Visualization Challenge (with A....',
+          description: "",
+          section: "News",},{id: "news-invited-speaker-at-the-usda-agricultural-marketing-service-webinar-introducing-fame-2-0",
           title: 'Invited speaker at the USDA Agricultural Marketing Service webinar introducing FAME 2.0.',
           description: "",
           section: "News",},{id: "news-presenting-my-job-market-paper-at-the-aaea-south-asia-section-graduate-student-symposium-virtual-and-serving-as-a-discussant",
