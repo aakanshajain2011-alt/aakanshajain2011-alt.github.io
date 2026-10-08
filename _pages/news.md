@@ -1,6 +1,6 @@
 ---
 layout: page
-title: recent updates
+title: Recent updates
 permalink: /news/
 nav: true
 nav_order: 5
