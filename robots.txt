@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aakanshajain2011-alt.github.io/sitemap.xml
+Sitemap: https://aakanshajain.com/sitemap.xml
