@@ -8,13 +8,13 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false
-  more_info: 
+  more_info:
 
 selected_papers: false
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: false
   limit: 5
 
