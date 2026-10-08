@@ -38,7 +38,7 @@ ninja.data = [{
                 window.location.href = "/assets/pdf/Jain_CV_short.pdf";
               },
             },{id: "nav-recent-updates",
-          title: "recent updates",
+          title: "Recent updates",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -53,10 +53,10 @@ ninja.data = [{
           section: "News",},{id: "news-invited-speaker-at-the-usda-agricultural-marketing-service-webinar-introducing-fame-2-0",
           title: 'Invited speaker at the USDA Agricultural Marketing Service webinar introducing FAME 2.0.',
           description: "",
-          section: "News",},{id: "news-presenting-my-job-market-paper-at-the-aaea-south-asia-section-graduate-student-symposium-virtual-and-serving-as-a-discussant",
+          section: "News",},{id: "news-presenting-my-job-market-paper-at-the-aaea-south-asia-section-graduate-student-symposium-virtual",
           title: 'Presenting my job market paper at the AAEA South Asia Section Graduate Student...',
           description: "",
-          section: "News",},{id: "news-presenting-my-job-market-paper-at-the-southern-economic-association-annual-meeting-in-houston-and-serving-as-a-discussant",
+          section: "News",},{id: "news-presenting-my-job-market-paper-at-the-southern-economic-association-annual-meeting-in-houston",
           title: 'Presenting my job market paper at the Southern Economic Association Annual Meeting in...',
           description: "",
           section: "News",},{
