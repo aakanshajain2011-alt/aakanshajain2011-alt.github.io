@@ -47,7 +47,7 @@ ninja.data = [{
         },{id: "news-our-article-on-iowa-state-alumni-migration-was-covered-by-axios-des-moines-news",
           title: 'Our article on Iowa State alumni migration was covered by Axios Des Moines....',
           description: "",
-          section: "News",},{id: "news-first-place-in-the-usda-ams-and-aaea-data-visualization-challenge-with-a-basha-and-h-lee-presented-my-job-market-paper-at-the-aaea-annual-meeting-kansas-city-github",
+          section: "News",},{id: "news-first-place-in-the-usda-ams-and-aaea-data-visualization-challenge-with-a-basha-and-h-lee-news-github-presented-my-job-market-paper-at-the-aaea-annual-meeting-kansas-city",
           title: 'First place in the USDA AMS and AAEA Data Visualization Challenge (with A....',
           description: "",
           section: "News",},{id: "news-invited-speaker-at-the-usda-agricultural-marketing-service-webinar-introducing-fame-2-0",
