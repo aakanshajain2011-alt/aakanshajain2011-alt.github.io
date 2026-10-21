@@ -21,7 +21,7 @@ nav_order: 2
 <h2 class="category">Works in Progress</h2>
 {% bibliography -q @*[type=4. Works in Progress]* %}
 
-<h2 class="category">Policy and Extension Publications</h2>
-{% bibliography -q @*[type=5. Policy and Extension Publications]* %}
+<h2 class="category">Policy and Outreach Publications</h2>
+{% bibliography -q @*[type=5. Policy and Outreach Publications]* %}
 
 </div>
