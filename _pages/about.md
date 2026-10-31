@@ -25,4 +25,4 @@ latest_posts:
 
 My research studies how immigration, education, and access to opportunity shape workers and local labor markets in the United States and India, using applied microeconometric methods. I am advised by [John Winters](https://sites.google.com/site/johnvwinters/) and [Peter Orazem](https://www.econ.iastate.edu/people/peter-orazem).
 
-**Job Market Paper:** "The Rise of H-2A: Causal Evidence on Guestworker Substitution for Settled Farm Labor" — draft available [here](/assets/pdf/jain_h2a_jmp.pdf). The paper asks whether U.S. farms replaced a shrinking year-round immigrant farm workforce with temporary H-2A guestworkers, and finds that farms hire about one guestworker for each settled worker lost.
+**Job Market Paper:** "The Rise of H-2A: Causal Evidence on Guestworker Substitution for Settled Farm Labor" — draft available [here](/assets/pdf/jain_h2a_jmp.pdf). The paper asks whether the decline in settled non-citizen farm workers contributed to the rise of the H-2A guestworker program, and finds that farms hire about one H-2A worker for each settled worker lost. This substitution accounts for 29 percent of aggregate H-2A growth since 2008.
